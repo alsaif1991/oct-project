@@ -1,0 +1,12 @@
+.dark {
+    background-color: rgb(40, 40, 14);
+    height: 500px;
+    width: 500px;
+    color: red;
+}
+.darkw {
+    color: blue;
+}
+body {
+    background-color: aquamarine;
+}
